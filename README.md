@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @eclouw
-- 👀 I’m interested in interesting things
-- 🌱 I’m currently learning compsci
-- 💞️ I’m looking to collaborate on my group projects
-- 📫 How to reach me whatsapp
+- 👀 I’m interested in programming in Java, C#, and Python.
+- 🌱 I’m currently learning Computer Science at UCT
+- 📫 How to reach me: email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a huge Formula One Fan
 
 <!---
 eclouw/eclouw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
