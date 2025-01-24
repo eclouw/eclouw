@@ -1,7 +1,6 @@
 ### Hi, I'm Ethan Louw
-- I am a student from South Africa
-- Currently in my third year at the University of Cape Town
-- Studying a Bsc in Computer Science and Business Computing (Information Systems)
+- I have a BSc in Computer Science and Business Computing
+- Completed my studies at the University of Cape Town
 
 I enjoy programming and learning new things. I believe there is always something new and exciting to learn. I take pride in my work and always apply myself and attempt my best.
 
